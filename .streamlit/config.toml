@@ -1,6 +1,12 @@
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
 [theme]
-primaryColor = "#6E3991"//buttons and others
-backgroundColor = "#F3BA05"
-secondaryBackgroundColor = "#00F701"
-textColor = "#F700F7"
+base = "light"
+primaryColor = "#4CAF50"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#000000"
 font = "sans serif"
